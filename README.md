@@ -17,5 +17,26 @@ Open a list 2 in which the subsequent number is the quotient of the previous two
 The generated list of numbers are put into an array called array_quotient.
 And again open a list 3 and append zero to the list. The range for list 3 starts from third fibonacci number and ends with the input number.The  subsequent number in this is the result_value  of the difference between the previous two numbers.
 The resulted list of numbers are put into an array called array_difference.
+
+Q 1)D
 Plot all the resulted list of numbers in each and every case by importing matplotlib.pyplot as plt.
 Give plt.plot(array,label) to plot graph and give the label to x-axis ,y-axis and title to the graph and use plt.show() to show the result
+
+
+
+Q 2)A
+The data is downloaded from the kaggle after signing up.
+
+Q 2)B
+Import the panda dataframes using import pandas as pd and then the .csv files are read using pd.read_csv(path of the file). And read the 
+
+
+
+
+
+
+
+
+
+
+
