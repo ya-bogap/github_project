@@ -68,7 +68,7 @@ import seaborn
 Plot the boxplot by using sns.boxplot and giving all the necessary parameters.
 label the x and y axes and give the legend(title , location,label) and disply the graph.
 
-Import seaborn and use sns.boxplot and give the x- axis and y-axis parametre and data.
+Import seaborn and use sns.boxplot and give the x- axis and y-axis parameter and data.
 Label the x and y axes and give a title to the wholr boxplot.
 Give the description of legend and also its location.
 and display the graph.
