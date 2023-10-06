@@ -27,6 +27,12 @@ Q 1)E
 
 
 
+
+
+
+
+
+
 Q 2)A
 The data training and the testing data are downloaded from the kaggle after signing up.
 
@@ -80,18 +86,3 @@ Q 2)G
 #Survival by Passenger Class Segregated by Sex:
 #Survival rates were generally higher for first-class passengers, both for males and females.
 #These concise conclusions capture the key findings from the Titanic dataset analysis.
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
